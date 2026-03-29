@@ -26,7 +26,7 @@ Custom kernel berperforma ekstrem untuk **Xiaomi Redmi Note 10 Pro (sweet)**. Di
 | **Android Support** | Android 11, 12, 13, 14 (AOSP Based / Custom ROM) |
 | **Kernel Version** | 4.14.318 |
 | **Compiler** | Proton Clang version 13.0.0 |
-| **Version** | v4.0-Official-Unified |
+| **Version** | v1.0-Official-Unified |
 | **Developer** | [zelocoll](https://github.com/piwwing23) |
 
 ## 📡 Catatan Monitor Mode

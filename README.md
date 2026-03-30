@@ -1,6 +1,6 @@
 # 🚀 UNLEASHED + Gaming & NetHunter Kernel
 
-Custom kernel berperforma ekstrem untuk **Xiaomi Redmi Note 10 Pro (sweet)**. Dirancang khusus untuk memadukan kekuatan **Gaming** tanpa batas dan kapabilitas **Kali NetHunter** profesional.
+Custom kernel berperforma untuk **Xiaomi Redmi Note 10 Pro (sweet)**. Dirancang khusus untuk memadukan kekuatan **Gaming** tanpa batas dan kapabilitas **Kali NetHunter** profesional.
 
 ---
 

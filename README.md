@@ -14,8 +14,7 @@ Custom kernel berperforma ekstrem untuk **Xiaomi Redmi Note 10 Pro (sweet)**. Di
 
 ### 🏹 Kali NetHunter & Security
 - **Monitor Mode & Packet Injection:** Dukungan penuh untuk penetrasi jaringan nirkabel.
-- **Atheros AR9271 Support:** Driver `ath9k_htc` sudah aktif secara bawaan untuk adapter seperti TP-Link TL-WN722N v1.
-- **Full Compatibility:** Nama kernel sudah menyertakan tag `NETHUNTER` agar terdeteksi otomatis oleh modul Magisk Kali NetHunter (No Skipping Error).
+- **Atheros AR9271 Support:** Driver `ath9k_htc` sudah aktif secara bawaan untuk adapter seperti TP-Link TL-WN722N v1 dll.
 - **Advanced Networking:** DebugFS & Relay aktif untuk pemantauan paket data secara real-time.
 
 ## 📦 Informasi Build

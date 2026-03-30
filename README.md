@@ -81,7 +81,6 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 ### ⚠️ Monitor Mode Setup
 To enable TP-Link TL-WN722N v1 detection in Termux/NetHunter:
 
-```bash
 # Ensure firmware module is installed via Magisk
 # Required: Firmware files must be present in /lib/firmware
 
@@ -116,4 +115,4 @@ To enable TP-Link TL-WN722N v1 detection in Termux/NetHunter:
     <img src="https://img.shields.io/badge/GitHub-zelocoll-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-```
+

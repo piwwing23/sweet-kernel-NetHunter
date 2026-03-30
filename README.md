@@ -110,7 +110,7 @@ To enable TP-Link TL-WN722N v1 detection in Termux/NetHunter:
 
 | Contribution | Source |
 |-------------|--------|
-| **Base Kernel** | [ViP3R KERNELs](https://github.com/ViP3R-KERNELs/kernel_xiaomi_sweet) |
+| **Kernel** | [ViP3R KERNELs](https://github.com/ViP3R-KERNELs/kernel_xiaomi_sweet) |
 | **Build System** | [Kali NetHunter Kernel Builder](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-kernel-builder) |
 | **Community** | Xiaomi sweet developers & testers |
 

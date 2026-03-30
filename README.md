@@ -70,7 +70,7 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 - Unlocked bootloader
 - Custom recovery (TWRP/OrangeFox recommended)
 - Magisk installed (for module support)
-- 
+  
 ## 📥 Downloads
 
 Grab the latest build here:

@@ -79,12 +79,6 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
     <a href="https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Download-Latest%20Build-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download"/>
     </a>
-</p>
-
-<h1 align="center">🚀 UNLEASHED Kernel</h1>
-<p align="center"><strong>High-Performance Gaming & Kali NetHunter Kernel for Xiaomi Redmi Note 10 Pro (sweet)</strong></p>
-
----
 
 ## 📥 Downloads
 

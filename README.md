@@ -77,8 +77,8 @@ Grab the latest build here:
 
 [![Download UNLEASHED Kernel](https://img.shields.io/badge/Download_UNLEASHED_Kernel-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=drive_link)
 
-**Filename:** `UNLEASHED-sweet-4.14.318-$(date).zip`  
-**Size:** 25-30 MB (approx)  
+**Filename:** `ZELOCOLL-UNLEASHED-NETHUNTER.zip`  
+**Size:** 31 MB  
 **Compatible:** MIUI/AOSP Android 11-14
 
 ### Flashing Instructions

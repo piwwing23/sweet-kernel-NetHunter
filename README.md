@@ -52,11 +52,11 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 |---------|--------|-------------|
 | Monitor Mode | ✅ Enabled | Full packet capture capability |
 | Packet Injection | ✅ Enabled | Active wireless penetration testing |
-| Atheros AR9271 | ✅ Built-in | Native `ath9k_htc` driver support |
+| Atheros AR9271 | ✅ Built-in | Native `ath9k_htc` driver support Dll|
 
 ### 🔧 Supported Adapters
 - TP-Link TL-WN722N v1
-- Other Atheros AR9271 based USB WiFi adapters
+- Other Atheros AR9271 based USB WiFi adapters Dll
 
 ### 🌐 Advanced Networking
 - **DebugFS** - Kernel debugging interface

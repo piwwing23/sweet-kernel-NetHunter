@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/UNLEASHED-Gaming%20%26%20NetHunter-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Unleashed Badge"/>
   <img src="https://img.shields.io/badge/Kernel-4.14.318-4ECDC4?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Version"/>
@@ -85,7 +84,6 @@ To enable TP-Link TL-WN722N v1 detection in Termux/NetHunter:
 ```bash
 # Ensure firmware module is installed via Magisk
 # Required: Firmware files must be present in /lib/firmware
-```
 
 ---
 

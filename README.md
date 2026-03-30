@@ -70,6 +70,31 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 - Unlocked bootloader
 - Custom recovery (TWRP/OrangeFox recommended)
 - Magisk installed (for module support)
+<p align="center"> 
+    <img src="https://img.shields.io/badge/UNLEASHED-Gaming%20%26%20NetHunter-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Unleashed Badge"/> 
+    <img src="https://img.shields.io/badge/Kernel-4.14.318-4ECDC4?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Version"/> 
+    <img src="https://img.shields.io/badge/Android-11--14-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Support"/> 
+    <img src="https://img.shields.io/badge/Compiler-Proton%20Clang%2013.0-orange?style=for-the-badge&logo=llvm&logoColor=white" alt="Compiler"/> 
+    <!-- Download Badge -->
+    <a href="https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=drive_link">
+        <img src="https://img.shields.io/badge/Download-Latest%20Build-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download"/>
+    </a>
+</p>
+
+<h1 align="center">🚀 UNLEASHED Kernel</h1>
+<p align="center"><strong>High-Performance Gaming & Kali NetHunter Kernel for Xiaomi Redmi Note 10 Pro (sweet)</strong></p>
+
+---
+
+## 📥 Downloads
+
+Grab the latest build here:
+
+[![Download UNLEASHED Kernel](https://img.shields.io/badge/Download_UNLEASHED_Kernel-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=drive_link)
+
+**Filename:** `UNLEASHED-sweet-4.14.318-$(date).zip`  
+**Size:** 25-30 MB (approx)  
+**Compatible:** MIUI/AOSP Android 11-14
 
 ### Flashing Instructions
 1. Download the latest release from [Releases](../../releases)

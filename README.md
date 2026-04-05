@@ -38,7 +38,7 @@
 ### ⚡ Unleashed Thermal
 Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequencies regardless of temperature - zero performance degradation under load.
 
-> **📸 Uji Thermal Throttling:**  
+> **Thermal Throttling:**  
 > <img src="https://github.com/piwwing23/sweet-kernel-NetHunter/blob/main/1.jpg" width="600" alt="CPU Throttling Test"/>
 
 ### 🖱️ Ultra-Low Latency
@@ -76,14 +76,13 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 | **Ralink Support** | ✅ Enabled |
 | **Realtek Support** | ✅ Enabled |
 
-> **📸 Monitor Mode dengan Wifite:**  
+> **Monitor Mode**  
 > <img src="https://github.com/piwwing23/sweet-kernel-NetHunter/blob/main/2.jpg" width="600" alt="Wifite Monitor Mode"/>
 
 ### 🔧 Supported Adapters (Tested)
 - **TP-Link:** TL-WN722N (v1)
-- **Alfa Network:** AWUS036NH, AWUS036NEH, AWUS036ACM
-- **Panda Wireless:** PAU05, PAU06, PAU09
-
+- dlll
+- cek aja sendiri kalo gk ada bisa dm gw di telegram di bawah.
 ---
 
 ## ⚠️ Risiko & Peringatan

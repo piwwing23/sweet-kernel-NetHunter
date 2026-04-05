@@ -80,7 +80,7 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 > <img src="https://github.com/piwwing23/sweet-kernel-NetHunter/blob/main/2.jpg" width="600" alt="Wifite Monitor Mode"/>
 
 ### 🔧 Supported Adapters (Tested)
-- **TP-Link:** TL-WN722N (v1, v2, v3)
+- **TP-Link:** TL-WN722N (v1)
 - **Alfa Network:** AWUS036NH, AWUS036NEH, AWUS036ACM
 - **Panda Wireless:** PAU05, PAU06, PAU09
 

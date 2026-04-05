@@ -42,12 +42,15 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 > <img src="https://github.com/piwwing23/sweet-kernel-NetHunter/blob/main/1.jpg" width="600" alt="CPU Throttling Test"/>
 
 ### 🖱️ Ultra-Low Latency
-- **1000Hz Touch Polling Rate** - Respon layar instan untuk gaming kompetitif.
+- **Touch Polling Rate** - Respon layar instan untuk gaming kompetitif.
 - Optimasi khusus untuk mengurangi *input lag* pada game FPS dan MOBA.
 
 ### 🎯 Anti-Drop Optimization
 - **Interactive & Performance Governors** - Penyetelan halus untuk menjaga kestabilan FPS.
 - **GPU Boost** - Adreno 618 governor dikonfigurasi untuk menangani beban grafis berat tanpa *stuttering*.
+
+### Tambahan
+- Ubah manual ke mode performance di CPU dan GPU, menggunakan fkm.
 
 ---
 

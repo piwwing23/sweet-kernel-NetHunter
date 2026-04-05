@@ -49,8 +49,9 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 - **Interactive & Performance Governors** - Penyetelan halus untuk menjaga kestabilan FPS.
 - **GPU Boost** - Adreno 618 governor dikonfigurasi untuk menangani beban grafis berat tanpa *stuttering*.
 
-### Tambahan
-- Ubah manual ke mode performance di CPU dan GPU, menggunakan fkm.
+###    Tambahan
+- Ubah manual ke mode `performance` di CPU dan GPU, agar Performa lebih maksimal
+- Gunakan `fkm` untuk mengubahnya
 
 ---
 
@@ -85,17 +86,22 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 ### 🔧 Supported Adapters (Tested)
 - **TP-Link:** TL-WN722N (v1)
 - dlll
-- cek aja sendiri kalo gk ada bisa dm gw di telegram di bawah.
+- cek aja sendiri kalo gk ada bisa dm gw menggunakan telegram di bawah.
 ---
 
-## ⚠️ Risiko & Peringatan
+## ⚠️ RISIKO & DISCLAIMER
 
-> **Resiko pemakaian :** Panas berlebih.
-> **Gunakan seperlunya** dan pantau suhu device.  
-> **Fitur NetHunter** hanya untuk jaringan milik sendiri ya.
+### 📋 Sebelum Menginstal
 
-**Instalasi risiko sendiri, gak ada tanggung jawab dari saya.**
+Kernel UNLEASHED memiliki **thermal throttling yang DINONAKTIFKAN** untuk performa maksimal. Ini berarti:
 
+> **Instalasi adalah tanggung jawab Anda sendiri.**
+> Dengan menginstal kernel ini, Anda **menyetujui dan menerima sepenuhnya** segala risiko yang mungkin terjadi, termasuk namun tidak terbatas pada:
+> - Panas berlebih pada perangkat
+> - Menurunnya umur baterai
+> - Kerusakan hardware
+> 
+> **Saya sebagai pengembang TIDAK bertanggung jawab** atas kerusakan apapun yang terjadi pada perangkat Anda.
 ---
 
 ## 📥 Downloads

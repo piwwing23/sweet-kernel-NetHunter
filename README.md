@@ -125,12 +125,13 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 
 ---
 
-## 🤝 Credits
+## 🤝 Credits & Acknowledgements
 
-| Source |
-|--------|
-| [ViP3R KERNELs](https://github.com/ViP3R-KERNELs/kernel_xiaomi_sweet) |
-| [Kali NetHunter Builder](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-kernel-builder) |
+| Contribution | Source |
+|-------------|--------|
+| **Kernel Source** | [ViP3R KERNELs](https://github.com/ViP3R-KERNELs/kernel_xiaomi_sweet) |
+| **Build System** | [Kali NetHunter Kernel Builder](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-kernel-builder) |
+| **Community** | Xiaomi sweet developers & testers |
 
 ---
 
@@ -141,8 +142,5 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 <p align="center">
   <a href="https://github.com/piwwing23">
     <img src="https://img.shields.io/badge/GitHub-zelocoll-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/ZeroCoollv">
-    <img src="https://img.shields.io/badge/Telegram-@ZeroCoollv-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>

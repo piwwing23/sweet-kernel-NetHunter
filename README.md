@@ -106,22 +106,23 @@ Kernel UNLEASHED memiliki **thermal throttling yang DINONAKTIFKAN** untuk perfor
 
 ## 📥 Downloads
 
-[![Download UNLEASHED Kernel](https://img.shields.io/badge/Download_UNLEASHED_Kernel-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=sharing)
+### 🎮 Full Version (Gaming + NetHunter) versi terbaru
+
+[![Download UNLEASHED Kernel](https://img.shields.io/badge/Download_Full_Version-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=sharing)
 
 **Filename:** `ZELOCOLL-UNLEASHED-NETHUNTER.zip`  
 **Size:** 31 MB | **Compatible:** AOSP Android 11-14
 
+---
+
 ### 📡 Monitor Mode Only
 
-**Anda bisa langsung mendownloadnya di sini:**
-
-[![Download Monitor Mode](https://img.shields.io/badge/⬇️_Download_Monitor_Mode-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/user-attachments/files/26333068/Zelocoll-NetHunter-MonitorMode.zip)
-
-**Atau pergi ke `TAG` GitHub:**  
-[https://github.com/piwwing23/sweet-kernel-NetHunter/releases/tag/1.0](https://github.com/piwwing23/sweet-kernel-NetHunter/releases/tag/1.0)
+[![Download Monitor Mode](https://img.shields.io/badge/Download_Monitor_Mode-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/user-attachments/files/26333068/Zelocoll-NetHunter-MonitorMode.zip)
 
 **Filename:** `Zelocoll-NetHunter-MonitorMode.zip`  
 **Size:** 16.3 MB | **Compatible:** AOSP Android 11-14
+
+> 🔗 **Atau pergi ke `TAG` GitHub:** [github.com/piwwing23/sweet-kernel-NetHunter/releases/tag/1.0](https://github.com/piwwing23/sweet-kernel-NetHunter/releases/tag/1.0)
 ---
 
 ## 📥 Installation

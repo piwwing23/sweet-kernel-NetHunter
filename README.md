@@ -113,7 +113,7 @@ Kernel UNLEASHED memiliki **thermal throttling yang DINONAKTIFKAN** untuk perfor
 
 ### (Monitor Mode Only)
 **Anda bisa lengsung mendowloadnya di sini, atau anda bisa pergi ke `TAG`:**
-[![Download Light Version]([https://img.shields.io/badge/Download_Light_Version-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piwwing23/sweet-kernel-NetHunter/releases/tag/1.0](https://github.com/user-attachments/files/26333068/Zelocoll-NetHunter-MonitorMode.zip))
+[![Download Light Version](https://github.com/user-attachments/files/26333068/Zelocoll-NetHunter-MonitorMode.zip)
 
 **Filename:** `Zelocoll-NetHunter-MonitorMode.zip`  
 **Size:** 16.3 MB | **Compatible:** AOSP Android 11-14

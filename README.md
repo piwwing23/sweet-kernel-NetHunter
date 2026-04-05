@@ -74,8 +74,7 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 ## 📥 Downloads
 
 Grab the latest build here:
-
-[![Download UNLEASHED Kernel](https://img.shields.io/badge/Download_UNLEASHED_Kernel-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=drive_link](https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=sharing))
+[![Download UNLEASHED Kernel](https://img.shields.io/badge/Download_UNLEASHED_Kernel-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=sharing)
 
 **Filename:** `ZELOCOLL-UNLEASHED-NETHUNTER.zip`  
 **Size:** 31 MB  

@@ -9,10 +9,11 @@
 <p align="center"><strong>High-Performance Gaming & Kali NetHunter Kernel for Xiaomi Redmi Note 10 Pro (sweet)</strong></p>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#requirements">Requirements</a> •
-  <a href="#credits">Credits</a>
+  <a href="#-device-compatibility">Compatibility</a> •
+  <a href="#-gaming-performance-features">Features</a> •
+  <a href="#-kali-nethunter--security-features">NetHunter</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="https://t.me/Hanzzyt">Support</a>
 </p>
 
 ---
@@ -36,71 +37,72 @@
 Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequencies regardless of temperature - zero performance degradation under load.
 
 ### 🖱️ Ultra-Low Latency
-- **1000Hz Touch Polling Rate** - Instant screen response for competitive gaming
-- Critical for FPS and competitive mobile esports
+- **1000Hz Touch Polling Rate** - Respon layar instan untuk gaming kompetitif.
+- Optimasi khusus untuk mengurangi *input lag* pada game FPS dan MOBA.
 
 ### 🎯 Anti-Drop Optimization
-- **Interactive & Performance Governors** - Fine-tuned for stable FPS
-- **GPU Boost** - Adreno 618 governor optimization for heavy graphics workloads
+- **Interactive & Performance Governors** - Penyetelan halus untuk menjaga kestabilan FPS.
+- **GPU Boost** - Adreno 618 governor dikonfigurasi untuk menangani beban grafis berat tanpa *stuttering*.
 
 ---
 
 ## 🔒 Kali NetHunter & Security Features
 
-### 📡 Wireless Pentesting
+### 📡 Wireless Pentesting (Multi-Driver Support)
+Kernel ini telah dioptimalkan untuk mendukung berbagai macam chipset external WiFi adapter:
+
 | Feature | Status | Description |
 |---------|--------|-------------|
-| Monitor Mode | ✅ Enabled | Full packet capture capability |
-| Packet Injection | ✅ Enabled | Active wireless penetration testing |
-| Atheros AR9271 | ✅ Built-in | Native `ath9k_htc` driver support Dll|
+| **Monitor Mode** | ✅ Enabled | Mendukung penangkapan paket penuh (Packet Capture) |
+| **Packet Injection** | ✅ Enabled | Mendukung serangan deauth dan injeksi paket |
+| **Atheros Support** | ✅ Enabled | Mendukung `ath9k_htc` (AR9271) secara native |
+| **Ralink Support** | ✅ Enabled | Mendukung chipset seri RT2800, RT3070, RT5370 |
+| **Realtek Support** | ✅ Enabled | Mendukung driver RTL88XXAU & RTL8187 |
 
-### 🔧 Supported Adapters
-- TP-Link TL-WN722N v1
-- Other Atheros AR9271 based USB WiFi adapters Dll
-
-### 🌐 Advanced Networking
-- **DebugFS** - Kernel debugging interface
-- **Relay** - Real-time packet monitoring
+### 🔧 Supported Adapters (Tested)
+- **TP-Link:** TL-WN722N (v1, v2, v3), TL-WN821N, TL-WN822N.
+- **Alfa Network:** AWUS036NH, AWUS036NEH, AWUS036ACM.
+- **Panda Wireless:** PAU05, PAU06, PAU09.
+- **Lainnya:** Semua adapter berbasis chipset **Atheros, Ralink, dan Realtek** yang mendukung Linux monitor mode.
 
 ---
 
-## 📥 Installation
-
-### Prerequisites
-- Unlocked bootloader
-- Custom recovery (TWRP/OrangeFox recommended)
-- Magisk installed (for module support)
-  
 ## 📥 Downloads
 
-Grab the latest build here:
+Dapatkan build terbaru melalui tautan di bawah ini:
+
 [![Download UNLEASHED Kernel](https://img.shields.io/badge/Download_UNLEASHED_Kernel-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SpwBXh1V3Hiax0t4DX3ItWSFzszU3COE/view?usp=sharing)
 
 **Filename:** `ZELOCOLL-UNLEASHED-NETHUNTER.zip`  
 **Size:** 31 MB  
 **Compatible:** MIUI/AOSP Android 11-14
 
+---
+
+## 📥 Installation
+
+### Prerequisites
+1. Bootloader sudah dalam keadaan **Unlocked**.
+2. Terpasang Custom Recovery (**TWRP** atau **OrangeFox**).
+3. Disarankan sudah terpasang **Magisk** untuk manajemen module.
+
 ### Flashing Instructions
-1. Download the latest release from [Releases](../../releases)
-2. Boot into custom recovery
-3. Flash the kernel zip
-4. Wipe cache/dalvik (recommended)
-5. Reboot system
-
-### ⚠️ Monitor Mode Setup
-To enable TP-Link TL-WN722N v1 detection in Termux/NetHunter:
-
-# Ensure firmware module is installed via Magisk
-# Required: Firmware files must be present in /lib/firmware
+1. Download file `ZELOCOLL-UNLEASHED-NETHUNTER.zip`.
+2. Masuk ke mode Recovery (Power + Vol Up).
+3. Pilih menu **Install** dan cari file yang sudah di-download.
+4. Swipe untuk melakukan flashing.
+5. Wipe **Cache/Dalvik** setelah selesai.
+6. Reboot System.
 
 ---
 
-## 📊 Performance Benchmarks
+## 🛠️ Support & Bug Reports
+Jika kamu menemukan bug, masalah performa, atau butuh bantuan saat instalasi, silakan hubungi saya langsung:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thermal-Unleashed-red?style=flat-square&logo=fire&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polling-1000Hz-green?style=flat-square&logo=speedometer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Governor-Interactive%2FPerf-blue?style=flat-square&logo=cpu&logoColor=white"/>
+  <a href="https://t.me/Hanzzyt">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20@Hanzzyt-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support"/>
+  </a>
 </p>
 
 ---
@@ -109,7 +111,7 @@ To enable TP-Link TL-WN722N v1 detection in Termux/NetHunter:
 
 | Contribution | Source |
 |-------------|--------|
-| **Kernel** | [ViP3R KERNELs](https://github.com/ViP3R-KERNELs/kernel_xiaomi_sweet) |
+| **Kernel Source** | [ViP3R KERNELs](https://github.com/ViP3R-KERNELs/kernel_xiaomi_sweet) |
 | **Build System** | [Kali NetHunter Kernel Builder](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-kernel-builder) |
 | **Community** | Xiaomi sweet developers & testers |
 
@@ -123,5 +125,7 @@ To enable TP-Link TL-WN722N v1 detection in Termux/NetHunter:
   <a href="https://github.com/piwwing23">
     <img src="https://img.shields.io/badge/GitHub-zelocoll-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://t.me/Hanzzyt">
+    <img src="https://img.shields.io/badge/Telegram-@Hanzzyt-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
-

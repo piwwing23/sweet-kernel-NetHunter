@@ -38,6 +38,9 @@
 ### ⚡ Unleashed Thermal
 Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequencies regardless of temperature - zero performance degradation under load.
 
+> **📸 Uji Thermal Throttling:**  
+> <img src="https://github.com/piwwing23/sweet-kernel-NetHunter/blob/main/1.jpg" width="600" alt="CPU Throttling Test"/>
+
 ### 🖱️ Ultra-Low Latency
 - **1000Hz Touch Polling Rate** - Respon layar instan untuk gaming kompetitif.
 - Optimasi khusus untuk mengurangi *input lag* pada game FPS dan MOBA.
@@ -72,6 +75,9 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 | **Atheros Support** | ✅ Enabled |
 | **Ralink Support** | ✅ Enabled |
 | **Realtek Support** | ✅ Enabled |
+
+> **📸 Monitor Mode dengan Wifite:**  
+> <img src="https://github.com/piwwing23/sweet-kernel-NetHunter/blob/main/2.jpg" width="600" alt="Wifite Monitor Mode"/>
 
 ### 🔧 Supported Adapters (Tested)
 - **TP-Link:** TL-WN722N (v1, v2, v3)

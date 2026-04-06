@@ -39,7 +39,7 @@
 Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequencies regardless of temperature - zero performance degradation under load.
 
 > **Thermal Throttling:**  
-> <img src="https://github.com/piwwing23/sweet-kernel-NetHunter/blob/main/1.jpg" width="600" alt="CPU Throttling Test"/>
+> <img src="1.jpg" width="600" alt="CPU Throttling Test"/>
 
 ### 🖱️ Ultra-Low Latency
 - **Touch Polling Rate** - Respon layar instan untuk gaming kompetitif.

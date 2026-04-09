@@ -14,9 +14,7 @@
   <a href="#-kelebihan--keunggulan">Pros</a> •
   <a href="#-kali-nethunter--security-features">NetHunter</a> •
   <a href="#-risiko--peringatan">Risks</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="https://t.me/ZeroCoollv">Support</a>
-</p>
+  <a href="#-installation">Installation</a> 
 
 ---
 
@@ -79,9 +77,6 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 | **Atheros Support** | ✅ Enabled |
 | **Ralink Support** | ✅ Enabled |
 | **Realtek Support** | ✅ Enabled |
-
-> **Monitor Mode**  
-> <img src="https://github.com/piwwing23/sweet-kernel-NetHunter/blob/main/2.jpg" width="600" alt="Wifite Monitor Mode"/>
 
 ### 🔧 Supported Adapters (Tested)
 - **TP-Link:** TL-WN722N (v1)

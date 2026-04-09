@@ -36,9 +36,6 @@
 ### ⚡ Unleashed Thermal
 Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequencies regardless of temperature - zero performance degradation under load.
 
-> **Thermal Throttling:**  
-> <img src="1.jpg" width="600" alt="CPU Throttling Test"/>
-
 ### 🖱️ Ultra-Low Latency
 - **Touch Polling Rate** - Respon layar instan untuk gaming kompetitif.
 - Optimasi khusus untuk mengurangi *input lag* pada game FPS dan MOBA.

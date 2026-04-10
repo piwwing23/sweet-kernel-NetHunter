@@ -131,18 +131,6 @@ Kernel UNLEASHED memiliki **thermal throttling yang DINONAKTIFKAN** untuk perfor
 4. Wipe Cache/Dalvik
 5. Reboot System
 
----
-
-## 🛠️ Support
-
-<p align="center">
-  <a href="https://t.me/ZeroCoollv">
-    <img src="https://img.shields.io/badge/Telegram-@ZeroCoollv-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support"/>
-  </a>
-</p>
-
----
-
 ## 🤝 Credits & Acknowledgements
 
 | Contribution | Source |

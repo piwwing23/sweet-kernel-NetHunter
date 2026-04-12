@@ -77,23 +77,7 @@ Thermal throttling **completely disabled**. CPU & GPU maintain maximum frequenci
 
 ### 🔧 Supported Adapters (Tested)
 - **TP-Link:** TL-WN722N (v1)
-- dlll
-- cek aja sendiri kalo gk ada bisa dm gw menggunakan telegram di bawah.
----
-
-## ⚠️ RISIKO & DISCLAIMER
-
-### 📋 Sebelum Menginstal
-
-Kernel UNLEASHED memiliki **thermal throttling yang DINONAKTIFKAN** untuk performa maksimal. Ini berarti:
-
-> **Instalasi adalah tanggung jawab Anda sendiri.**
-> Dengan menginstal kernel ini, Anda **menyetujui dan menerima sepenuhnya** segala risiko yang mungkin terjadi, termasuk namun tidak terbatas pada:
-> - Panas berlebih pada perangkat
-> - Menurunnya umur baterai
-> - Kerusakan hardware
-> 
-> **Saya sebagai pengembang TIDAK bertanggung jawab** atas kerusakan apapun yang terjadi pada perangkat Anda.
+- dll cek aja sendiri
 ---
 
 ## 📥 Downloads
